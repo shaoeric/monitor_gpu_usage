@@ -1,4 +1,4 @@
-### Monitor GPU Usage
+# Monitor GPU Usage
 
 一个监控英伟达显卡占用情况的脚本，当显存剩余量达到预期值时，通知提醒。
 
